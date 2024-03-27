@@ -4,4 +4,4 @@
 * Anti-Money Laundering in Bitcoin Experimenting with Graph Convolutional Networks for Financial Forensics.pdf
 * elliptic_bitcoin_dataset/elliptic_txs_classes.csv
 * elliptic_bitcoin_dataset/elliptic_txs_edgelist.csv
-* elliptic_bitcoin_dataset/elliptic_txs_features.txt
+* elliptic_bitcoin_dataset/elliptic_txs_features
